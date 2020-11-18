@@ -1,0 +1,22 @@
+main
+{
+  padding: 20px;
+}
+
+main header
+{
+  text-align: center;
+}
+
+main article button
+{
+  margin-top: 20px;
+}
+
+main footer
+{
+  padding: 20px;
+  margin-top: 20px;
+  min-height: 160px;
+  border: 1px solid #000;
+}
